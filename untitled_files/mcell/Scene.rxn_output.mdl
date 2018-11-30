@@ -1,0 +1,5 @@
+REACTION_DATA_OUTPUT {
+	STEP = 1e-06
+	{COUNT[NMDA,WORLD]} 	=> "./react_data/NMDA.World.dat"
+	{COUNT[Ca,WORLD]}	=> "./react_data/Ca.World.dat"	
+	}

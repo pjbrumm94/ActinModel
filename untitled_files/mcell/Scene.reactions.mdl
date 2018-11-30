@@ -1,0 +1,5 @@
+DEFINE_REACTIONS
+{
+  NMDA, -> NMDA, + Ca' [10000]
+}
+

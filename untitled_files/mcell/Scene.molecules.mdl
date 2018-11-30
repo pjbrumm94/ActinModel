@@ -1,0 +1,12 @@
+DEFINE_MOLECULES
+{
+  NMDA
+  {
+    DIFFUSION_CONSTANT_2D = 0
+  }
+  Ca
+  {
+    DIFFUSION_CONSTANT_3D = 1e-6
+  }
+}
+
